@@ -12,7 +12,7 @@ Premium: http://www.gridgum.com
 /* BASIC THEME CONFIGURATION */
 body {
     color: #797979;
-	background-image: url('http://blogs-images.forbes.com/perianneboring/files/2014/06/bitcoin.jpg');
+	background: #191717;
     font-family: 'Ruda', sans-serif;
     padding: 0px !important;
     margin: 0px !important;
@@ -2216,7 +2216,7 @@ label {
 
 /*footer*/
 .site-footer {
-    background: #68dff0;
+    background: #000000;
     color: #fff;
     padding: 10px 0;
 }
